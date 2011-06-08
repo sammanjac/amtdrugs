@@ -1,0 +1,7 @@
+#commentform input#submit {
+	text-indent:0;
+}
+#contentLeft ul.commentlist li .avatar {
+	position:relative;
+	left:-81px;
+}
